@@ -14,7 +14,7 @@
 	- Causation can only be concluded from a randomized experiment	
 	- Association does not necessarilly imply causation
 
-Independent:
+## Independent:
 	- Non-associated variables
 
 

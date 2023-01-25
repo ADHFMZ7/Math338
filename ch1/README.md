@@ -1,7 +1,7 @@
 # Chapter 1 Notes
 	
 ## experiments
-	An experiment is a way to prove/disprove your hypothesis in a controlled environment.
+- An experiment is a way to prove/disprove your hypothesis in a controlled environment.
 
 ### Experiment vs Observational study:
 - Observational study is trying to observe things that are already occuring, while an experiment is trying to observe how a system reacts to changes that are artificially introduced.
@@ -19,8 +19,9 @@
 
 ## Sampling methods
 - There are many different ways to take a random sample from the population
+- FILL THIS IN
 
-### Methods
+### Different Methods
 - Simple random sampling
 	- Each case has an equal chance of being included
 - Stratified sampling
@@ -28,4 +29,8 @@
 - Cluster sampling
 	- break population into small groups called "clusters"
 	- clusters are usually not made up from homoheneous observations.
+- Multistage sampling
+	-TODO: fill this in
 
+## Observational Studies
+- 

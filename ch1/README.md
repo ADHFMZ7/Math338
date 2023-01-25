@@ -1,6 +1,6 @@
 # Chapter 1 Notes
 	
-## experiments
+## Experiments
 - An experiment is a way to prove/disprove your hypothesis in a controlled environment.
 
 ### Experiment vs Observational study:
@@ -34,3 +34,5 @@
 
 ## Observational Studies
 - 
+
+

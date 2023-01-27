@@ -3,11 +3,14 @@
 ## Experiments
 - An experiment is a way to prove/disprove your hypothesis in a controlled environment.
 
-### Experiment vs Observational study:
-- Observational study is trying to observe things that are already occuring, while an experiment is trying to observe how a system reacts to changes that are artificially introduced.
+### Experiment
+- An experiment entails observing how a system reacts to changes that are artificially introduced.
+### Observational study:
+- Observational study is trying to observe things that are already occuring.
+- This is usually done rather than an experiment for ethical reasons.
 
 ### Association:
-- When variables have a link / are related
+- When variables have a link / are related.
 
 ### causation:
 - One of the variables caues another

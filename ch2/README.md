@@ -13,4 +13,16 @@
 
 ### Dotplot
 - A dotplot FINISH THIS
-- 
+- A parameter summarizes data from a population into a single number.
+- A statistic summarizes the data from a sample into a single number.
+
+
+- Mean: The average of the data
+	- Sample mean:
+		- Can be denoted with x̄
+	- Population mean
+		- Denoted with µ
+- Median: The center value
+- Mode: The most common data point
+
+

@@ -30,4 +30,6 @@
 
 ### Distributions
 - TAKE GOOD NOTES ON THIS AT HOME
+- Normal Distribution
+- Bell curve
 

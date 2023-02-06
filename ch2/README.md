@@ -33,3 +33,23 @@
 - Normal Distribution
 - Bell curve
 
+-----
+notes i missed 
+-----
+
+## Categorical Data
+
+Categorical data is data that falls into discrete categories rather than numbers.
+
+### Bar Plot
+- A bar plot is one way to visualize categorical data.
+- It shows association based on the sizes of the bars.
+
+
+
+
+
+
+
+
+

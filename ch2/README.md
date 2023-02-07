@@ -48,8 +48,3 @@ Categorical data is data that falls into discrete categories rather than numbers
 
 
 
-
-
-
-
-

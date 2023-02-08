@@ -2,10 +2,10 @@
 
 probability is the proportion of times some desired event happens over an infinite amount of trials.
 
-## definitions:
+## quick definitions:
 - Experiment: a repeatable procedure with well-defined possible outcomes.
-- Sample space: The set of possible outcomes. denoted by Ω
-- Event: A subset of the sample space. denoted by 
+- Sample space: The set of possible outcomes. denoted by 
+- Event: A subset of the sample space. denoted by Ω
 
 
 ## Law of Large Numbers
@@ -13,23 +13,25 @@ probability is the proportion of times some desired event happens over an infini
 
 ## Sample Space
 
-The sample space of 
+- The sample space is the set of all possible outcome.
+- It is often denoted by Ω.
 
 ## Events
 
-An event is a subset of the sample space.
+- An event is a subset of the sample space.
+- It is usually the desired result of probability.
 
 ### Disjoint events
 - Disjoint events are events that cannot happen at the same time.
 - They can be added together using the Addition Rule.
 	- P(A OR B) = P(A) + A(B)
-<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png" width="100">
+<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png" width="500">
+
 ### Overlapping Events
 - Events that can both happen at the same time.
 - These events can be added using the General Adition Rule
 	- P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
 	- We subtract the last term to prevent double counting the union.
-
-Ex) 6 + 5 - 1 = 10/15
+<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint2.png" width="500">
 
 

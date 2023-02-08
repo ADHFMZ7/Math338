@@ -1,4 +1,4 @@
-# Chapter 2 Notes
+# Chapter 2 Notes - Visualizing Data
 
 ## Numerical Data
 
@@ -38,15 +38,25 @@
 
 Categorical data is data that falls into discrete categories rather than numbers.
 
+There are many ways we can visualize categorical data, each with their own beneifts.
+
 ### Contingency tables
 - A table that summarizes data for two categorical variables.
-- Each cell shows the number of observational units that fall are in the row and column variables.
+- Each cell shows the number of observational units that are in the row and column variables.
 ![Contingenct table](https://i0.wp.com/statisticsbyjim.com/wp-content/uploads/2021/02/contingency_table_marginal_probabilities.png?resize=445%2C161&ssl=1)
 
 ### Bar Plot
+- Used to visualize one categorical variable.
 - A bar plot is one way to visualize categorical data.
 - It shows association based on the sizes of the bars.
 
+### Stacked Bar Plot
+- This variation of a Bar Plot can be used to plot two categorical variables.
+- It stacks two bars on top of eachother.
+- There is also a standardized bar plot that compares proportions rather than frequency.
 
+### Mosaic Plots
+
+### Pie Charts
 
 

@@ -1,4 +1,4 @@
-# Chapter 1 Notes
+# Chapter 1 - Introduction to Statistics
 	
 ## Experiments
 - An experiment is a way to prove/disprove your hypothesis in a controlled environment.

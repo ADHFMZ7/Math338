@@ -23,8 +23,7 @@ An event is a subset of the sample space.
 - Disjoint events are events that cannot happen at the same time.
 - They can be added together using the Addition Rule.
 	- P(A OR B) = P(A) + A(B)
-![disjoint sets](https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png | width = 100)
-
+<img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint1.png" width="100">
 ### Overlapping Events
 - Events that can both happen at the same time.
 - These events can be added using the General Adition Rule

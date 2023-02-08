@@ -34,4 +34,8 @@ probability is the proportion of times some desired event happens over an infini
 	- We subtract the last term to prevent double counting the union.
 <img src="https://www.statology.org/wp-content/uploads/2021/02/disjoint2.png" width="350">
 
+### Event Complement
+- The complement of an event is the set that contains everything that is not in the event set.
+- It is also a subset of the sample space.
+- It is often denoted as Ā, where A is any event.
 

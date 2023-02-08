@@ -33,13 +33,15 @@
 - Normal Distribution
 - Bell curve
 
------
-notes i missed 
------
 
 ## Categorical Data
 
 Categorical data is data that falls into discrete categories rather than numbers.
+
+### Contingency tables
+- A table that summarizes data for two categorical variables.
+- Each cell shows the number of observational units that fall are in the row and column variables.
+![Contingenct table](https://i0.wp.com/statisticsbyjim.com/wp-content/uploads/2021/02/contingency_table_marginal_probabilities.png?resize=445%2C161&ssl=1)
 
 ### Bar Plot
 - A bar plot is one way to visualize categorical data.

@@ -54,16 +54,15 @@ Conditional Probability is
 
 TAKE FIRST NOTES
 
-- P(A | B) - read as probability of A given B happens.
-
+- \(P(A | B)) - read as probability of A given B happens.
 
 ```math 
 P(A | B) \neq P(B | A) 
 ```
 
-- This can be calculated with the following: 
+- This can be calculated with the following formula
 ```math
-P(A | B) = \frac{P(A \cup B)} {P(B)}
+P(A | B) = \frac{P(A \cap B)} {P(B)}
 ```
 
 

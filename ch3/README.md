@@ -63,7 +63,7 @@ P(A | B) \neq P(B | A)
 
 - This can be calculated with the following: 
 ```math
-P(A | B) = P(A \cup B) \div P(B)
+\frac{P(A | B) = P(A \cup B)} {P(B)}
 ```
 
 

@@ -66,8 +66,14 @@ P(A | B) \neq P(B | A)
 ```math
 P(A | B) = \frac{P(A \cap B)} {P(B)}
 ```
+### Independent events
 
+- Two events are independent if they satisfy the following condition
+```math
+P(A \cap B) = P(A) * P(B)
+```
 
+## Baye's Theorem
 
 
 

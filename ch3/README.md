@@ -56,10 +56,15 @@ TAKE FIRST NOTES
 
 - P(A | B) - read as probability of A given B happens.
 
-- P(A | B) != P(B | A)
 
-- This can be calculated with the following: P(A | B) = P(A and B) / P(B)
+```math 
+P(A | B) \neq P(B | A) 
+```
 
+- This can be calculated with the following: 
+```math
+P(A | B) = P(A \cup B) \div P(B)
+```
 
 
 

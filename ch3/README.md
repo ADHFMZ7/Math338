@@ -50,17 +50,19 @@ probability is the proportion of times some desired event happens over an infini
 
 ## Conditional Probability
 
-Conditional Probability is 
+Conditional Probability is the probability of some event A happening if event B has already happened.
 
-TAKE FIRST NOTES
-
-- \(P(A | B)) - read as probability of A given B happens.
+- The notation we use to denote this is shown below.
+```math
+ P(A | B)
+```
+ - It is read as probability of A given B happens.
 
 ```math 
 P(A | B) \neq P(B | A) 
 ```
 
-- This can be calculated with the following formula
+- Conditional probability can be calculated with the following formula
 ```math
 P(A | B) = \frac{P(A \cap B)} {P(B)}
 ```

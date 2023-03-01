@@ -75,7 +75,7 @@ P(A \cap B) = P(A) * P(B)
 
 ## Baye's Theorem
 
-
+Baye's theorem is a 
 
 
 

@@ -15,6 +15,6 @@
 
 - The binomial distribution describes the number of successes in a fixed number of trials.
 
-
-
-
+- (n CHOOSE k) * p^k * (1-p)^(n-k) TODO: put this in LaTex
+- mean: n * p
+- standard deviation: sqrt(n * p * (1-p))
